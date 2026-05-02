@@ -1,3 +1,10 @@
+## Author
+
+Yasir Shaikh
+
+GitHub: https://github.com/YasirShaikh03
+
+
 # 🐍 Snake Game
 
 A classic Snake game with a polished UI built using **Pygame**.
@@ -49,3 +56,9 @@ python snake_game.py
 | 1     | Baby Snake   | Super slow        |
 | 5     | Viper        | Medium pace       |
 | 10    | LEVIATHAN    | Extremely fast    |
+
+## Author
+
+Yasir Shaikh
+
+GitHub: https://github.com/YasirShaikh03
